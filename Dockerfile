@@ -1,0 +1,1 @@
+FROM ghcr.io/openhands/agent-canvas:latest
